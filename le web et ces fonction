@@ -1,0 +1,13 @@
+<h2>L'URL, c'est quoi ?</h2>
+<p>Une URL, acronyme de "Uniform Resource Locator," est une référence précise utilisée pour localiser et accéder à diverses ressources sur le World Wide Web. Elle se compose de plusieurs éléments clés :</p>
+
+<p>pour l'exemple nous utiliserons cette URL : http://:80/exemple/ex/ex.html?cle1=valeur1&cle2=valeur2#exemple</p>
+
+<li> Protocole (http:// ou https://) : Le protocole détermine la méthode à utiliser pour récupérer le contenu de la ressource. "http://" est couramment utilisé pour les connexions non sécurisées, tandis que "https://" assure une communication sécurisée en chiffrant les données transitant entre le client et le serveur.</li>
+<li>Nom de domaine (www.exemple.com) : Il s'agit de l'adresse du serveur web vers lequel vous souhaitez vous diriger. Si besoin, une adresse IP peut être employée à la place, bien que cette pratique soit moins courante.</li>
+<li>Port (:80) : En général, le numéro de port n'est pas spécifié dans l'URL, car les navigateurs utilisent des ports standard par défaut. Les ports servent à identifier des canaux spécifiques pour la communication, mais leur inclusion est rarement nécessaire.</li>
+<li>Chemin (/exemple/ex/ex.html) : Le chemin indique le trajet sur le serveur web menant à la ressource souhaitée. Il peut comporter des dossiers et des fichiers, permettant ainsi de cibler précisément la ressource.</li>
+<li>Paramètres (?clé1=valeur1&clé2=valeur2) : Les paramètres additionnels sont présentés sous la forme de paires clé/valeur et sont transmis au serveur web. Ils servent à influencer l'affichage de la ressource ou à effectuer des actions particulières, comme la personnalisation de la page.</li>
+<li>Ancre (#Exemple) : L'ancre, représentée par un hashtag (#), renvoie à une position spécifique à l'intérieur de la ressource. Par exemple, dans un document HTML, un ancrage permet de faire défiler la page automatiquement jusqu'à un point précis de cette ressource.</li>
+
+<p>En somme, une URL constitue une adresse complète et détaillée permettant d'accéder à une ressource sur le web. Elle spécifie le protocole de communication, l'emplacement du serveur, éventuellement le port, le chemin d'accès à la ressource, des paramètres additionnels (le cas échéant) et une ancre pour identifier une position spécifique à l'intérieur de la ressource ciblée.</p>
